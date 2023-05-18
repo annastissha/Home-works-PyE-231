@@ -1,0 +1,493 @@
+{\rtf1\ansi\ansicpg1251\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fswiss\fcharset0 Arial-BoldMT;\f2\fswiss\fcharset0 ArialMT;
+\f3\fswiss\fcharset0 Arial-ItalicMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red36\green38\blue38;\red255\green233\blue163;
+\red26\green40\blue79;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c18824\c19608\c20000;\cssrgb\c100000\c92549\c69804;
+\cssrgb\c13333\c21569\c38431;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid301\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid401\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid501\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid601\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid701\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid801\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid901\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1001\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1301\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid14}
+{\list\listtemplateid15\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1401\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid15}
+{\list\listtemplateid16\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1501\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid16}
+{\list\listtemplateid17\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1601\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid17}
+{\list\listtemplateid18\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1701\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid18}
+{\list\listtemplateid19\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1801\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid19}
+{\list\listtemplateid20\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid1901\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid20}
+{\list\listtemplateid21\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2001\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid21}
+{\list\listtemplateid22\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2101\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid22}
+{\list\listtemplateid23\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2201\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid23}
+{\list\listtemplateid24\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2301\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid24}
+{\list\listtemplateid25\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2401\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid25}
+{\list\listtemplateid26\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{none\}}{\leveltext\leveltemplateid2501\'00;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid26}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}{\listoverride\listid18\listoverridecount0\ls18}{\listoverride\listid19\listoverridecount0\ls19}{\listoverride\listid20\listoverridecount0\ls20}{\listoverride\listid21\listoverridecount0\ls21}{\listoverride\listid22\listoverridecount0\ls22}{\listoverride\listid23\listoverridecount0\ls23}{\listoverride\listid24\listoverridecount0\ls24}{\listoverride\listid25\listoverridecount0\ls25}{\listoverride\listid26\listoverridecount0\ls26}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab708
+\pard\tx20\tx360\pardeftab708\li360\fi-360\ri-274\sl258\slmult1\sa3\qj\partightenfactor0
+\ls1\ilvl0
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+                        \uc0\u1042 \u1099 \u1078 \u1080 \u1084 \u1082 a\
+1
+\f1\b\fs32 \cf3 Required Skills and Qualifications:
+\f2\b0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls2\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+1+ years Experience with Angular.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Proficient in CSS, HTML, and writing cross-browser compatible code.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with JavaScript and knowledge of its quirks and workarounds.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Proficient understanding of Git.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Good understanding of browser rendering behavior and performance.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with NgRx and RxJs libraries.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Understanding of Agile methodologies.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Strong attention to detail.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Excellent troubleshooting skills.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Good verbal and written communication in English.\
+\ls2\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+\
+\ls2\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+2\cf3 \kerning1\expnd0\expndtw0  \cf3 \expnd0\expndtw0\kerning0
+Experience documenting the code inline using JSDoc or other conventions.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls3\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience writing extensive unit tests using automated TDD tasks.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Knowledge of advanced JavaScript libraries and frameworks such as AngularJS, KnockoutJS, BackboneJS, ReactJS, DurandalJS, etc.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Knowledge of architecting and automating the build process for production, using task runners or scripts.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience creating configuration, build, and test scripts for Continuous Integration environments.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls3\ilvl0\cf3 \kerning1\expnd0\expndtw0 3\expnd0\expndtw0\kerning0
+ \uc0\u1057 \u1080 \u1083 \u1100 \u1085 \u1086 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1077  JavaScript \u1080  \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1086 \u1074  ECMAScript 6;\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls3\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+3+ \uc0\u1075 \u1086 \u1076 \u1072  \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1086 \u1075 \u1086  \u1086 \u1087 \u1099 \u1090 \u1072  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  Node.js;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+5+ \uc0\u1083 \u1077 \u1090  \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1086 \u1075 \u1086  \u1086 \u1087 \u1099 \u1090 \u1072  \u1074 \u1077 \u1073 -\u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080 ;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1050 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1080 \u1081  \u1086 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1074 \u1099 \u1089 \u1086 \u1082 \u1086 \u1085 \u1072 \u1075 \u1088 \u1091 \u1078 \u1077 \u1085 \u1085 \u1099 \u1084 \u1080  SQL \u1080 \u1083 \u1080  NO SQL \u1073 \u1072 \u1079 \u1072 \u1084 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 ;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1050 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1080 \u1081  \u1086 \u1087 \u1099 \u1090  \u1088 \u1077 \u1072 \u1083 \u1080 \u1079 \u1072 \u1094 \u1080 \u1080  REST, GraphQL \u1080  WebSockets;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1087 \u1088 \u1080 \u1085 \u1094 \u1080 \u1087 \u1086 \u1074  TDD \u1080  \u1086 \u1087 \u1099 \u1090  \u1085 \u1072 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1103  \u1090 \u1077 \u1089 \u1090 \u1086 \u1074 ;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1087 \u1088 \u1080 \u1085 \u1094 \u1080 \u1087 \u1086 \u1074  \u1084 \u1080 \u1082 \u1088 \u1086 \u1089 \u1077 \u1088 \u1074 \u1080 \u1089 \u1085 \u1086 \u1081  \u1072 \u1088 \u1093 \u1080 \u1090 \u1077 \u1082 \u1090 \u1091 \u1088 \u1099 ;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084 \u1086 \u1081  \u1082 \u1086 \u1085 \u1090 \u1088 \u1086 \u1083 \u1103  \u1074 \u1077 \u1088 \u1089 \u1080 \u1081  GIT;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  RabbitMQ;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  Redis;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1073 \u1072 \u1079 \u1072 \u1084 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  MongoDB, MySQL;\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1083 \u1080 \u1095 \u1080 \u1077  Intermediate \u1091 \u1088 \u1086 \u1074 \u1085 \u1103  \u1072 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1086 \u1075 \u1086  \u1103 \u1079 \u1099 \u1082 \u1072 .\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 4 \cf3 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+\uc0\u1057 \u1074 \u1086 \u1073 \u1086 \u1076 \u1085 \u1086  \u1074 \u1083 \u1072 \u1076 \u1077 \u1077 \u1096 \u1100  Java \
+       \uc0\u1048 \u1085 \u1090 \u1077 \u1088 \u1077 \u1089 \u1091 \u1077 \u1096 \u1100 \u1089 \u1103  \u1087 \u1086 \u1080 \u1089 \u1082 \u1086 \u1074 \u1099 \u1084 \u1080  \u1090 \u1077 \u1093 \u1085 \u1086 \u1083 \u1086 \u1075 \u1080 \u1103 \u1084 \u1080                                                                \u1056 \u1072 \u1073 \u1086 \u1090 \u1072 \u1083  \u1089  Lucene/ElasticSearch/Solr\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls4\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1043 \u1086 \u1090 \u1086 \u1074  \u1082  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1077  \u1095 \u1072 \u1089 \u1090 \u1080  \u1079 \u1072 \u1076 \u1072 \u1095  \u1085 \u1072  \cb4 Python\cb1 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1056 \u1072 \u1079 \u1073 \u1080 \u1088 \u1072 \u1077 \u1096 \u1100 \u1089 \u1103  \u1074  \u1073 \u1072 \u1079 \u1072 \u1093  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  \u1080  \u1086 \u1095 \u1077 \u1088 \u1077 \u1076 \u1103 \u1093 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1059 \u1084 \u1077 \u1077 \u1096 \u1100  \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1090 \u1100  \u1074  Unix-\u1086 \u1082 \u1088 \u1091 \u1078 \u1077 \u1085 \u1080 \u1080 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1050 \u1088 \u1091 \u1090 \u1086  \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1077 \u1096 \u1100  \u1074  \u1082 \u1086 \u1084 \u1072 \u1085 \u1076 \u1077 , \u1091 \u1084 \u1077 \u1077 \u1096 \u1100  \u1086 \u1090 \u1089 \u1090 \u1072 \u1080 \u1074 \u1072 \u1090 \u1100  \u1089 \u1074 \u1086 \u1102  \u1090 \u1086 \u1095 \u1082 \u1091  \u1079 \u1088 \u1077 \u1085 \u1080 \u1103 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1061 \u1086 \u1095 \u1077 \u1096 \u1100  \u1074 \u1083 \u1080 \u1103 \u1090 \u1100  \u1085 \u1072  \u1085 \u1086 \u1074 \u1099 \u1081  \u1087 \u1088 \u1086 \u1076 \u1091 \u1082 \u1090  \u1080  \u1087 \u1088 \u1080 \u1095 \u1080 \u1085 \u1103 \u1090 \u1100  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1080 \u1089 \u1082 \u1083 \u1102 \u1095 \u1080 \u1090 \u1077 \u1083 \u1100 \u1085 \u1091 \u1102  \u1087 \u1086 \u1083 \u1100 \u1079 \u1091 \
+\ls4\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1048 \u1084 \u1077 \u1077 \u1096 \u1100  \u1086 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1074  \u1072 \u1085 \u1072 \u1083 \u1086 \u1075 \u1080 \u1095 \u1085 \u1099 \u1093  \u1082 \u1086 \u1084 \u1072 \u1085 \u1076 \u1072 \u1093 \
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 5    \cf3 \cb4 python\cf3 \cb1 : FastAPI, pytest, aiohttp\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 REST API\
+Postgresql, MongoDB, ClickHouse\
+RabbitMQ, Kafka\
+Docker\
+AWS\
+Kubernetes\
+Prometheus, Grafana\
+mypy, flake8, pylint, bandit, radon\
+Gitlab CI/CD\
+OpenAPI\
+JIRA, Confluence\
+\pard\pardeftab720\partightenfactor0
+\cf3 6\cf3 \kerning1\expnd0\expndtw0     \uc0\u1086 \u1087 \cf3 \expnd0\expndtw0\kerning0
+\uc0\u1099 \u1090  \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080 .\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls5\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \cb4 python\cb1  \cb4 \uc0\u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1089 \u1090 \u1086 \u1084 \cb1  \uc0\u1073 \u1086 \u1083 \u1077 \u1077  3\u1093  \u1083 \u1077 \u1090 .\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1090 \u1083 \u1080 \u1095 \u1085 \u1086 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1077  \cb4 Python\cb1 (>3.6), \uc0\u1054 \u1054 \u1055 , \u1087 \u1072 \u1090 \u1090 \u1077 \u1088 \u1085 \u1086 \u1074  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 .\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1083 \u1080 \u1095 \u1080 \u1077  \u1088 \u1077 \u1072 \u1083 \u1080 \u1079 \u1086 \u1074 \u1072 \u1085 \u1085 \u1099 \u1093  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1086 \u1074  \u1085 \u1072  \cb4 Python\cb1 .\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  Rest API.\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1088 \u1077 \u1083 \u1103 \u1094 \u1080 \u1086 \u1085 \u1085 \u1099 \u1093  \u1057 \u1059 \u1041 \u1044  \u1080  \u1103 \u1079 \u1099 \u1082 \u1072  SQL\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1074  \u1054 \u1057  Linux (Debian/Ubuntu) \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103 , \u1090 \u1072 \u1082 \u1078 \u1077  \u1073 \u1072 \u1079 \u1086 \u1074 \u1099 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1103  \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \cb4 \uc0\u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1089 \u1090 \u1072 \cb1 .\
+\ls5\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077 \u1084  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084  \u1082 \u1086 \u1085 \u1090 \u1088 \u1086 \u1083 \u1103  \u1074 \u1077 \u1088 \u1089 \u1080 \u1081  \u1080  \u1091 \u1084 \u1077 \u1085 \u1080 \u1077  \u1089  \u1085 \u1080 \u1084 \u1080  \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1090 \u1100 (git).\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls5\ilvl0
+\f3\i \cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1040 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1080 \u1081  \u1103 \u1079 \u1099 \u1082  \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \u1089 \u1074 \u1086 \u1073 \u1086 \u1076 \u1085 \u1086 \u1075 \u1086  \u1095 \u1090 \u1077 \u1085 \u1080 \u1103  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1076 \u1086 \u1082 \u1091 \u1084 \u1077 \u1085 \u1090 \u1072 \u1094 \u1080 \u1080 .
+\f2\i0 \
+\ls5\ilvl0
+\f3\i \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1080 \u1089 \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  RabbitMQ, Apache Kafka \u1080  \u1076 \u1088 \u1091 \u1075 \u1080 \u1093  \u1086 \u1095 \u1077 \u1088 \u1077 \u1076 \u1077 \u1081  \u1080  \u1073 \u1088 \u1086 \u1082 \u1077 \u1088 \u1086 \u1074  \u1103 \u1074 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103  \u1087 \u1083 \u1102 \u1089 \u1086 \u1084 \
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+
+\f2\i0 \cf3 7 \cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Develop\cf3 \cb1  and maintain high-performance Solana blockchain applications in Rust.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls6\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Work closely with other \cb4 developers\cb1  and project managers to ensure timely delivery of projects.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Contribute to the design and architecture of new features and systems.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Collaborate with other teams to integrate blockchain solutions into existing systems.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Write clean, efficient, and well-documented code.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Troubleshoot and debug applications as needed.\
+\ls6\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Keep up to date with the latest \cb4 developments\cb1  in blockchain technology and related industries.\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 \
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 8 \cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Develop\cf3 \cb1  and maintain high-performance Solana blockchain applications in Rust.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls7\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Work closely with other \cb4 developers\cb1  and project managers to ensure timely delivery of projects.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Contribute to the design and architecture of new features and systems.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Collaborate with other teams to integrate blockchain solutions into existing systems.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Write clean, efficient, and well-documented code.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Troubleshoot and debug applications as needed.\
+\ls7\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Keep up to date with the latest \cb4 developments\cb1  in blockchain technology and related industries.\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 \
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 9\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Design, build, and maintain efficient, high-quality, innovative C++ code for highload services\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls8\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Design and implement new distributed solutions\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls8\ilvl0\cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Develop\cb1  infrastructure for training and testing financial data models\
+\pard\pardeftab720\sa300\partightenfactor0
+
+\f1\b \cf3 Tech Stack:
+\f2\b0 \cf3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls9\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+In-depth knowledge of C++17(20) for highload services\
+\ls9\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with \cb4 Python\cb1  for implementing helpers and building function-based components\
+\ls9\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with Kafka, MinIO, ClickHouse, MongoDB for data storage and processing\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 10 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Everything we do is C++. Even our customer portal is written in C++. There is some Assembler glue code where it is necessary, and our build scripts are written in \cf3 \cb4 Python\cf3 \cb1 , but other than that think-cell is all about C++.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls10\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We closely track the latest versions of our compilers, Visual C++ and Xcode, so we can always use the latest C++ standard features as soon as they become available.\
+\ls10\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We fund the working group for programming languages of the German Institute for Standardization (DIN). Some of our employees are members of this committee and vote in the international standardization process of ISO/IEC C++.\
+\ls10\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We sponsor the Standard C++ Foundation helping them to promote the understanding and use of modern Standard C++ on all compilers and platforms.\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 11 10+ years of \cf3 \cb4 Python\cf3 \cb1  experience\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 - experience with Node, Typescript\
+- start-up experience\
+- expert knowledge of web application \cf3 \cb4 development\cf3 \cb1 \
+- expert knowledge in relational databases\
+- experience in handling large data sets\
+- experience with high-availability systems\
+- advanced knowledge of AWS\
+- clickhouse, kafka, databricks (bonus)\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 12 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+4 or more years of software \cf3 \cb4 development\cf3 \cb1  in Golang\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls11\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Advanced knowledge of unit and integration testing\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Preferred qualifications in concurrency and async \cb4 development\cb1 \
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with git and the git life cycle for software \cb4 development\cb1 \
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience interfacing with PostgreSQL and Redis\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Understanding of microservices architecture and how to establish context boundaries within software applications\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Passion for clean code and software architecture, with a thorough understanding of SOLID principles, and, ideally, domain-driven design, as well as Uncle Bob's Clean Code and Clean Architecture\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with Docker and running code in a Linux container\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience writing REST-based web services\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Eagerness to constantly improve and learn new skills\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Cultivation of DevOps culture and usage of relevant tools, having solid experience with operating systems, networking models, virtualization, and containerization\
+\ls11\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Ability to use advanced English for different work and business purposes\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 13\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+A passion for building a trading product that brings the world together\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls12\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Higher education in STEM\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+4 or more years of commercial software \cb4 development\cb1  using \cb4 Python\cb1  and excellent knowledge of its stack\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with projects using asyncio, aiohttp, fastAPI or frameworks such as sanic and tornado\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Good experience with PostgreSQL\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Solid knowledge of general computer science and working experience with various system designs and integrational patterns\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Solid experience with ORM and DBMS, including database architecting\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Cultivate DevOps culture and usage of relevant tools\'96solid experience with operating systems, networking models, virtualization, and containerization\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Cover your software by unit tests, having experience in integrational and load tests\
+\ls12\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Ability to use advanced English for different work & business purposes\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 14  \uc0\u1054 \u1087 \u1099 \u1090  \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1085 \u1072  \u1057 ++ \u1086 \u1090  3-\u1093  \u1083 \u1077 \u1090 ;\u8232 \'95 \u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1085 \u1080 \u1079 \u1082 \u1086 \u1091 \u1088 \u1086 \u1074 \u1085 \u1077 \u1074 \u1099 \u1084 \u1080  \u1089 \u1077 \u1090 \u1103 \u1084 \u1080 , \u1084 \u1085 \u1086 \u1075 \u1086 \u1087 \u1086 \u1090 \u1086 \u1095 \u1085 \u1086 \u1089 \u1090 \u1100 \u1102  \u1080  \u1072 \u1089 \u1080 \u1085 \u1093 \u1088 \u1086 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100 \u1102 ;\u8232 \'95 \u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  Linux \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \u1087 \u1088 \u1086 \u1076 \u1074 \u1080 \u1085 \u1091 \u1090 \u1086 \u1075 \u1086  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103 ;\u8232 \'95 \u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1072 \u1088 \u1093 \u1080 \u1090 \u1077 \u1082 \u1090 \u1091 \u1088 \u1099  \u1054 \u1057  Linux;\u8232 \'95 \u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1057 ++11, STL, metaprogramming, Atomic, POSIX API, IPC;\u8232 \'95 \u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1089 \u1077 \u1090 \u1077 \u1074 \u1099 \u1093  \u1087 \u1088 \u1086 \u1090 \u1086 \u1082 \u1086 \u1083 \u1086 \u1074  (TCP/IP);\u8232 \'95 \u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1092 \u1091 \u1085 \u1076 \u1072 \u1084 \u1077 \u1085 \u1090 \u1072 \u1083 \u1100 \u1085 \u1099 \u1093  \u1089 \u1090 \u1088 \u1091 \u1082 \u1090 \u1091 \u1088  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093  \u1080  \u1072 \u1083 \u1075 \u1086 \u1088 \u1080 \u1090 \u1084 \u1086 \u1074 ;\u8232 \'95 \u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1076 \u1086 \u1082 \u1091 \u1084 \u1077 \u1085 \u1090 \u1072 \u1094 \u1080 \u1080  \u1085 \u1072  \u1072 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1086 \u1084  \u1103 \u1079 \u1099 \u1082 \u1077 ;\u8232 \'95 \u1059 \u1084 \u1077 \u1085 \u1080 \u1077  \u1088 \u1077 \u1096 \u1072 \u1090 \u1100  \u1085 \u1077 \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1085 \u1099 \u1077  \u1079 \u1072 \u1076 \u1072 \u1095 \u1080 .\
+\
+15 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Expert knowledge in protocols and technologies:\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 1. Dynamic Routing Protocols (BGP, OSPF, etc.);\
+2. Linux Networking Subsystem: from a network card to applications and back;\
+3. TCP/UDP end-to-end transport for applications.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls13\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Confident knowledge of the system (Linux) at the level of a system engineer.\
+\ls13\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Desire and experience with routine tasks: \cb4 Python\cb1 , Ansible, etc.\
+\ls13\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience with public clouds: AWS, Azure, AliCloud.\
+\ls13\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Willingness to maintain infrastructure that works 24/7: duty and projects.\
+\ls13\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Responsibility and punctuality.\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 \
+16\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  Android \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1081  \u1085 \u1072  Kotlin \u1086 \u1090  4-\u1093  \u1083 \u1077 \u1090 ;\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls14\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  Android Studio;\
+\ls14\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1041 \u1072 \u1079 \u1086 \u1074 \u1099 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1103  C++, C, C#, \cb4 Python\cb1  \uc0\u1080 \u1083 \u1080  JavaScript;\
+\ls14\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1042 \u1083 \u1072 \u1076 \u1077 \u1085 \u1080 \u1077  \u1072 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1080 \u1084  \u1103 \u1079 \u1099 \u1082 \u1086 \u1084  \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  Upper-Intermediate \u1080  \u1074 \u1099 \u1096 \u1077 ;\
+\ls14\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1042 \u1099 \u1089 \u1096 \u1077 \u1077  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1077  \u1086 \u1073 \u1088 \u1072 \u1079 \u1086 \u1074 \u1072 \u1085 \u1080 \u1077  \u1076 \u1083 \u1103  \u1087 \u1086 \u1083 \u1091 \u1095 \u1077 \u1085 \u1080 \u1103  \u1074 \u1080 \u1079 \u1099 .\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls14\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\
+\ls14\ilvl0\kerning1\expnd0\expndtw0 17.    
+\f3\i \cf3 \expnd0\expndtw0\kerning0
+Linux\uc0\u8232 \'95 Node.js\u8232 \'95 Golang\u8232 \'95 C++\u8232 \'95 PostgreSQL, Sequelize\u8232 \'95 Node.js + K6 / \cb4 Python\cb1  / IXIA\
+\ls14\ilvl0
+\f2\i0 \cf3 \
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 18\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+luent English (both written and verbal form)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls15\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+3+ years in a \cb4 development\cb1  role\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls15\ilvl0\cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Python\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls15\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Linux, Bash\
+\ls15\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Git\
+\ls15\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Data analysis using R or SQL\
+\ls15\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience in genomics - is a plus\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls15\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 19 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Fluent English (both written and verbal form)\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls16\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+3+ years in a \cb4 development\cb1  role\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls16\ilvl0\cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Python\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls16\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Git\
+\ls16\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Data analysis using R or SQL\
+\ls16\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Experience in genomics - is a plus\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls16\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Applied mathematics, Bayesian statistics, machine learning, optimization algorithms, and bioinformatics experience a plus\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 20   Experience with low-level networks, multithreading, and asynchrony.\uc0\u8232 Advanced Linux skills\u8232 Knowledge of Linux OS architecture.\u8232 Knowledge of network protocols (TCP/IP).\u8232 Knowledge of fundamental data structures and algorithms.\u8232 Understanding of technical documentation in English.\u8232 Experience with FIX/FAST trading protocol advantageous\u8232 Good knowledge of financial products desirable\u8232 Strong communication and interpersonal skills essential\u8232 Leadership skills advantageou\
+\
+ 21. \AppleTypeServices\AppleTypeServicesF65539 \cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1057 \u1080 \u1083 \u1100 \u1085 \u1099 \u1077  \u1085 \u1072 \u1074 \u1099 \u1082 \u1080  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1085 \u1072  C/C++\cf0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa280\partightenfactor0
+\ls17\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1086 \u1073 \u1097 \u1080 \u1093  \u1087 \u1088 \u1072 \u1082 \u1090 \u1080 \u1082  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1055 \u1054 : \u1091 \u1087 \u1088 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1077  \u1082 \u1086 \u1085 \u1092 \u1080 \u1075 \u1091 \u1088 \u1072 \u1094 \u1080 \u1077 \u1081 , \u1086 \u1090 \u1089 \u1083 \u1077 \u1078 \u1080 \u1074 \u1072 \u1085 \u1080 \u1077  \u1079 \u1072 \u1076 \u1072 \u1095 , \u1087 \u1088 \u1086 \u1074 \u1077 \u1088 \u1082 \u1072  \u1082 \u1086 \u1076 \u1072  \u1080  \u1090 . \u1076 .\cf0 \
+\ls17\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1057 \u1082 \u1088 \u1080 \u1087 \u1090 \u1086 \u1074 \u1099 \u1077  \u1103 \u1079 \u1099 \u1082 \u1080  (\cb4 Python\cb1 , bash)\cf0 \
+\ls17\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1040 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1080 \u1081  (\u1089 \u1088 \u1077 \u1076 \u1085 \u1080 \u1081  \u1080 \u1083 \u1080  \u1074 \u1099 \u1096 \u1077 )\cf0 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa280\partightenfactor0
+\ls18\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1087 \u1086 \u1076  \u1072 \u1088 \u1093 \u1080 \u1090 \u1077 \u1082 \u1090 \u1091 \u1088 \u1099 , \u1086 \u1090 \u1083 \u1080 \u1095 \u1085 \u1099 \u1077  \u1086 \u1090  CPU (GPU, DSP \u1080  \u1090 .\u1076 .)\cf0 \
+\ls18\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1082 \u1086 \u1084 \u1087 \u1080 \u1083 \u1103 \u1090 \u1086 \u1088 \u1086 \u1074 \cf0 \
+\ls18\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1087 \u1088 \u1086 \u1092 \u1080 \u1083 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1080  \u1072 \u1085 \u1072 \u1083 \u1080 \u1079 \u1072  \u1087 \u1088 \u1086 \u1080 \u1079 \u1074 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1100 \u1085 \u1086 \u1089 \u1090 \u1080 \cf0 \
+\ls18\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1087 \u1086 \u1087 \u1091 \u1083 \u1103 \u1088 \u1085 \u1099 \u1084 \u1080  \u1092 \u1088 \u1077 \u1081 \u1084 \u1074 \u1086 \u1088 \u1082 \u1072 \u1084 \u1080  \u1084 \u1072 \u1096 \u1080 \u1085 \u1085 \u1086 \u1075 \u1086  \u1086 \u1073 \u1091 \u1095 \u1077 \u1085 \u1080 \u1103  (TensorFlow, Caffe \u1080  \u1090 . \u1076 .) \u1080 /\u1080 \u1083 \u1080  \u1072 \u1088 \u1093 \u1080 \u1090 \u1077 \u1082 \u1090 \u1091 \u1088 \u1072 \u1084 \u1080  CNN.\cf0 \
+\ls18\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  API \u1076 \u1083 \u1103  \u1087 \u1072 \u1088 \u1072 \u1083 \u1083 \u1077 \u1083 \u1100 \u1085 \u1099 \u1093  \u1074 \u1099 \u1095 \u1080 \u1089 \u1083 \u1077 \u1085 \u1080 \u1081  (CUDA/OpenCL, SYCL, OpenACC/OpenMP \u1080  \u1090 .\u1076 )\AppleTypeServices \cf3 \kerning1\expnd0\expndtw0 		\
+\pard\tx566\pardeftab720\sa280\partightenfactor0
+\cf3 \expnd0\expndtw0\kerning0
+22 \cf3 \cb4 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Develop\cf3 \cb1  and maintain high-performance Solana blockchain applications in Rust.Work closely with other \cf3 \cb4 developers\cf3 \cb1  and project managers to ensure timely delivery of projects.Contribute to the design and architecture of new features and systems.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls19\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Collaborate with other teams to integrate blockchain solutions into existing systems.\
+\ls19\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Write clean, efficient, and well-documented code.\
+\ls19\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Troubleshoot and debug applications as needed.\
+\ls19\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Keep up to date with the latest \cb4 developments\cb1  in blockchain technology and related industries.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls19\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+verything we do is C++. Even our customer portal is written in C++. There is some Assembler glue code where it is necessary, and our build scripts are written in Python, but other than that think-cell is all about C++.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls20\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We closely track the latest versions of our compilers, Visual C++ and Xcode, so we can always use the latest C++ standard features as soon as they become available.\
+\ls20\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We fund the working group for programming languages of the German Institute for Standardization (DIN). Some of our employees are members of this committee and vote in the international standardization process of ISO/IEC C++.\
+\ls20\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+We sponsor the Standard C++ Foundation helping them to promote the understanding and use of modern Standard C++ on all compilers and platforms.\
+\pard\tx566\pardeftab720\sa100\partightenfactor0
+\cf3 24 \uc0\u1079 \u1085 \u1072 \u1085 \u1080 \u1077  \u1089 \u1086 \u1074 \u1088 \u1077 \u1084 \u1077 \u1085 \u1085 \u1099 \u1093  \u1087 \u1088 \u1080 \u1085 \u1094 \u1080 \u1087 \u1086 \u1074  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1055 \u1054 .\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 - \uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1055 \u1054  \u1087 \u1086 \u1076  Linux \u1085 \u1072  \u1103 \u1079 \u1099 \u1082 \u1072 \u1093  \cf3 \cb4 C\cf3 \cb1 /C++.\
+- \uc0\u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1072 \u1088 \u1093 \u1080 \u1090 \u1077 \u1082 \u1090 \u1091 \u1088 \u1099  Linux.\
+- \uc0\u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089 \u1090 \u1077 \u1082 \u1072  \u1087 \u1088 \u1086 \u1090 \u1086 \u1082 \u1086 \u1083 \u1086 \u1074  TCP/IP \u1080  \u1087 \u1088 \u1080 \u1085 \u1094 \u1080 \u1087 \u1086 \u1074  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089 \u1077 \u1090 \u1077 \u1074 \u1086 \u1075 \u1086  \u1086 \u1073 \u1086 \u1088 \u1091 \u1076 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 .\
+25 \cf3 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+\uc0\u1042 \u1099 \u1089 \u1096 \u1077 \u1077  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1077  \u1086 \u1073 \u1088 \u1072 \u1079 \u1086 \u1074 \u1072 \u1085 \u1080 \u1077  (IT).\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls21\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1090 \u1083 \u1080 \u1095 \u1085 \u1086 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1077  \cb4 C\cb1 /\uc0\u1057 ++ \u1080  \u1092 \u1088 \u1077 \u1081 \u1084 \u1074 \u1086 \u1088 \u1082 \u1072  Ot.\
+\ls21\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  STL, \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1087 \u1086 \u1076  Linux, \u1057 \u1059 \u1041 \u1044  (MySQL \u1080 \u1083 \u1080  PostgreSQL), VCS (SVN/ Git/Gitlab).\u8232 \u1055 \u1088 \u1077 \u1080 \u1084 \u1091 \u1097 \u1077 \u1089 \u1090 \u1074 \u1086 \u1084  \u1073 \u1091 \u1076 \u1077 \u1090 :\
+\ls21\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1057 \u1059 \u1041 \u1044  Oracle;\
+\ls21\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1085 \u1072 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1103  bash-\u1089 \u1082 \u1088 \u1080 \u1087 \u1090 \u1086 \u1074 ;\
+\ls21\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1048 \u1057  \u1076 \u1083 \u1103  \u1072 \u1074 \u1080 \u1072 \u1094 \u1080 \u1080  (\u1085 \u1072 \u1074 \u1080 \u1075 \u1072 \u1094 \u1080 \u1086 \u1085 \u1085 \u1099 \u1077  \u1089 \u1080 \u1089 \u1090 \u1077 \u1084 \u1099 , \u1090 \u1088 \u1077 \u1085 \u1072 \u1078 \u1077 \u1088 \u1099 ).\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 26 \cf3 \kerning1\expnd0\expndtw0 		\cf3 \expnd0\expndtw0\kerning0
+\uc0\u1050 \u1072 \u1095 \u1077 \u1089 \u1090 \u1074 \u1077 \u1085 \u1085 \u1086 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1077  \u1080  \u1087 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1073 \u1072 \u1079 \u1086 \u1074 \u1099 \u1093  \u1072 \u1083 \u1075 \u1086 \u1088 \u1080 \u1090 \u1084 \u1086 \u1074  computer science.\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls22\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1080  \u1093 \u1086 \u1088 \u1086 \u1096 \u1080 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1103  C++, MS VS, WinApi.\
+\ls22\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1074 \u1099 \u1082 \u1080  \u1086 \u1090 \u1083 \u1072 \u1076 \u1082 \u1080  \u1080  \u1086 \u1087 \u1090 \u1080 \u1084 \u1080 \u1079 \u1072 \u1094 \u1080 \u1080  \u1055 \u1054 .\
+\ls22\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1059 \u1084 \u1077 \u1085 \u1080 \u1077  \u1088 \u1072 \u1079 \u1073 \u1080 \u1088 \u1072 \u1090 \u1100 \u1089 \u1103  \u1080  \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1090 \u1100  \u1089  \u1095 \u1091 \u1078 \u1080 \u1084  \u1082 \u1086 \u1076 \u1086 \u1084 .\
+\ls22\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1074 \u1099 \u1082 \u1080  \u1082 \u1086 \u1084 \u1072 \u1085 \u1076 \u1085 \u1086 \u1081  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099 .\
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3       \uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  MS SQL \u1080 \u1083 \u1080  \u1076 \u1088 \u1091 \u1075 \u1086 \u1081  \u1057 \u1059 \u1041 \u1044 .\
+27 \cf3 \kerning1\expnd0\expndtw0 	\cf3 \expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1085 \u1072  \u1103 \u1079 \u1099 \u1082 \u1072 \u1093  \u1057 , \u1057 ++ \u1074  \u1089 \u1088 \u1077 \u1076 \u1077  Qt - \u1086 \u1090  3\u1093  \u1083 \u1077 \u1090 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls23\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1053 \u1072 \u1074 \u1099 \u1082 \u1080  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1084 \u1085 \u1086 \u1075 \u1086 \u1087 \u1086 \u1090 \u1086 \u1095 \u1085 \u1099 \u1093  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1081 \
+\ls23\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1055 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1054 \u1054 \u1055  \u1080  \u1096 \u1072 \u1073 \u1083 \u1086 \u1085 \u1086 \u1074  \u1087 \u1088 \u1086 \u1077 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1085 \u1086 \u1075 \u1086  \u1086 \u1073 \u1077 \u1089 \u1087 \u1077 \u1095 \u1077 \u1085 \u1080 \u1103 \
+\ls23\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1075 \u1086  \u1072 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1086 \u1075 \u1086  \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \u1087 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1103  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1076 \u1086 \u1082 \u1091 \u1084 \u1077 \u1085 \u1090 \u1072 \u1094 \u1080 \u1080 \
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 28 
+\fs28 \cf5 - Golang, \uc0\u1073 \u1091 \u1076 \u1077 \u1090  \u1087 \u1083 \u1102 \u1089 \u1086 \u1084  Node.js, Python, \cf3 \cb4 C\cf5 \cb1  / C++ / C#, SQL;\uc0\u8232 - \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1085 \u1099 \u1077  \u1072 \u1083 \u1075 \u1086 \u1088 \u1080 \u1090 \u1084 \u1099  \u1080  \u1089 \u1090 \u1088 \u1091 \u1082 \u1090 \u1091 \u1088 \u1099  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 ;\u8232 - Protobuf, gRPC, Kafka, PosgreSQL, Cassandra / Scylla, ClickHouse, NSQ / RabbitMQ;\u8232 - Docker, Kubernetes, Kibana, Elastic, Grafana, Prometheus;\u8232 - Git / Jira, Unit tests;\u8232 - \u1073 \u1091 \u1076 \u1077 \u1090  \u1087 \u1083 \u1102 \u1089 \u1086 \u1084  WireShark, Directus, ProtoActors;\u8232 - \u1086 \u1087 \u1099 \u1090 \u1085 \u1099 \u1081  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  linux / Debian, \u1073 \u1091 \u1076 \u1091 \u1090  \u1087 \u1083 \u1102 \u1089 \u1086 \u1084  \u1085 \u1072 \u1074 \u1099 \u1082 \u1080  DevOps.
+\fs32 \cf3 \
+29\cf3 \kerning1\expnd0\expndtw0 	\cf3 \expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1073 \u1072 \u1079 \u1072 \u1084 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 : PostgreSQL, NoSQL\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls24\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1086 \u1076 \u1085 \u1086 \u1081  \u1080 \u1079  back-end \u1090 \u1077 \u1093 \u1085 \u1086 \u1083 \u1086 \u1075 \u1080 \u1077 \u1081  \'96 Python, \cb4 C\cb1 /C++, Java;\
+\ls24\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Docker, Kubernetes, CI/CD;\
+\ls24\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+Git, Linux, Bash.\
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 30  \uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1079 \u1088 \u1072 \u1073 \u1086 \u1090 \u1082 \u1080  \u1082 \u1086 \u1084 \u1084 \u1077 \u1088 \u1095 \u1077 \u1089 \u1082 \u1080 \u1093  \u1087 \u1088 \u1080 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1081  \u1085 \u1072  \u1057 ++ \u1086 \u1090  2-\u1093  \u1083 \u1077 \u1090 \
+\pard\pardeftab720\sa300\partightenfactor0
+\cf3 \'95 \uc0\u1059 \u1074 \u1077 \u1088 \u1077 \u1085 \u1085 \u1086 \u1077  \u1079 \u1085 \u1072 \u1085 \u1080 \u1077  STL, boost \u1080  \u1086 \u1087 \u1099 \u1090  \u1080 \u1093  \u1087 \u1088 \u1080 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103 \
+\'95 \uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1089 \u1086 \u1074 \u1088 \u1077 \u1084 \u1077 \u1085 \u1085 \u1099 \u1093  \u1089 \u1090 \u1072 \u1085 \u1076 \u1072 \u1088 \u1090 \u1086 \u1074  C++\
+\'95 \uc0\u1054 \u1087 \u1099 \u1090  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1089  \u1086 \u1076 \u1085 \u1086 \u1081  \u1080 \u1079  \u1057 \u1059 \u1041 \u1044 : PostgreSQL, Firebird, MS SQL, Oracle, MySQL \u1080 \u1083 \u1080  \u1072 \u1085 \u1072 \u1083 \u1086 \u1075 \u1080 \u1095 \u1085 \u1086 \u1075 \u1086  \u1082 \u1083 \u1072 \u1089 \u1089 \u1072 \
+\'95 \uc0\u1054 \u1087 \u1099 \u1090  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103  \u1087 \u1086 \u1076  Linux\
+\'95 \uc0\u1047 \u1085 \u1072 \u1085 \u1080 \u1077  \u1072 \u1085 \u1075 \u1083 \u1080 \u1081 \u1089 \u1082 \u1086 \u1075 \u1086  \u1103 \u1079 \u1099 \u1082 \u1072  \u1085 \u1072  \u1091 \u1088 \u1086 \u1074 \u1085 \u1077  \u1095 \u1090 \u1077 \u1085 \u1080 \u1103  \u1090 \u1077 \u1093 \u1085 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1081  \u1076 \u1086 \u1082 \u1091 \u1084 \u1077 \u1085 \u1090 \u1072 \u1094 \u1080 \u1080 \
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 31\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1087 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077  \u1087 \u1088 \u1080 \u1085 \u1094 \u1080 \u1087 \u1086 \u1074  \u1088 \u1072 \u1073 \u1086 \u1090 \u1099  \u1082 \u1088 \u1080 \u1087 \u1090 \u1086 \u1075 \u1088 \u1072 \u1092 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1093  \u1072 \u1083 \u1075 \u1086 \u1088 \u1080 \u1090 \u1084 \u1086 \u1074 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa100\partightenfactor0
+\ls25\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1086 \u1087 \u1099 \u1090  code review\
+\ls25\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1079 \u1085 \u1072 \u1085 \u1080 \u1077  \cb4 C\cb1  \uc0\u1080 \u1083 \u1080  \u1076 \u1088 \u1091 \u1075 \u1086 \u1075 \u1086  \u1103 \u1079 \u1099 \u1082 \u1072  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 : \u1074  \u1089 \u1074 \u1086 \u1077 \u1081  \u1088 \u1072 \u1073 \u1086 \u1090 \u1077  \u1082 \u1088 \u1086 \u1084 \u1077  C++ \u1084 \u1099  \u1080 \u1089 \u1087 \u1086 \u1083 \u1100 \u1079 \u1091 \u1077 \u1084  Python, Swift, Kotlin, Java, Objective-\cb4 C\cb1 , C#\
+\ls25\ilvl0\kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\uc0\u1087 \u1086 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1077 , \u1082 \u1072 \u1082  \u1088 \u1072 \u1073 \u1086 \u1090 \u1072 \u1077 \u1090  \u1054 \u1057  \u1080  \u1088 \u1072 \u1079 \u1083 \u1080 \u1095 \u1085 \u1099 \u1077  \u1092 \u1080 \u1079 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080 \u1077  \u1080 \u1085 \u1090 \u1077 \u1088 \u1092 \u1077 \u1081 \u1089 \u1099  (USB, NFC, SPI, Bluetooth)\
+\pard\tx566\pardeftab720\partightenfactor0
+\cf3 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls26\ilvl0\cf3 \kerning1\expnd0\expndtw0 		\expnd0\expndtw0\kerning0
+\
+}
