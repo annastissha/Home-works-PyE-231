@@ -1,63 +1,52 @@
 '''
-#TODO  задача 1. Цикл while
-#В Институте биоинформатики между информатиками и биологами устраивается соревнование. Победителям соревнования достанется большой и
-#вкусный пирог. В команде биологов a человек, а в команде информатиков — b человек.Нужно заранее разрезать пирог таким образом,
-# чтобы можно было раздать кусочки пирога любой команде, выигравшей соревнование, при этом каждому участнику этой команды должно достатьс
-# одинаковое число кусочков пирога. И так как не хочется резать пирог на слишком мелкие кусочки, нужно найти минимальное подходящее число.
-#Напишите программу, которая помогает найти это число.Программа должна считывать размеры команд (два положительных целых числа aa и b,
-# каждое число вводится на отдельной строке) и выводить наименьшее число d, которое делится на оба этих числа без остатка.
-a = int(input('a: '))
-b = int(input('b: '))
-if a > b:
-    a, b = b, a
+# TODO 1
+# Функция plus_two() выполняет одну простую задачу — выводит результат сложения переданного в нее числа 2 и значения
+# переменной number. В переменную number должно быть передано число. Обработайте ситуацию, если в эту переменную переданы данные
+# какого-то другого типа. В случае ошибки напечатайте в консоли сообщение «Ожидаемый тип данных — число!».
 
-d=b
-while d % a!=0:
-    d += b
-print(d)
-'''
-'''
-# TODO 2
-#  Для настольной игры используются карточки с номерами от 1 до N. Одна карточка
-#  Дано число N, далее N − 1 номер оставшихся карточек (различные числа от 1 до N). Программа должна вывести номер потерянной карточки.
-N = int(input('N: '))
-sum_cards = 0
-for i in range(1, N+1):
-    sum_cards +=i
-for i in range(N-1):
-    card = int(input())
-    sum_cards -= card
-missing_cards = sum_cards
-print(missing_cards)
-'''
-'''
-#Todo  По данному целому числу N распечатайте все квадраты натуральных чисел, не  превосходящие N, в порядке возрастания.
-N = int(input('N: '))
-i = 1
-while i**2 <= N:
-    print(i**2)
-    i += 1
-'''
-#TODO Калькулятор
+piteg = int(input("Введите число: "))
 
-#number1 = input("Введите первое число: ")
-#number2 = input("Введите второе число: ")
-#operation = input("Введите операцию: ")
-import math
 
-def calc_3(number1: int | float, number2: int | float, operation ) -> int | float:
-    if operation == "+":
-        return number1 + number2
-    elif operation == "-":
-        return number1 - number2
-    elif operation == "*":
-        return number1 * number2
-    elif operation == "//" or operation == "/":
-        if number2 == 0:
-            print("Второе число не может быть 0")
-        else:
-            return number1 / number2
-    elif operation == "sqrt":
-        return math.sqrt(number1)
-result = calc_3(operation ="/" , number1 =10, number2=2)
-print(result)
+def plus_two(piteg):
+    try:
+        result = 2 + int(piteg)
+        print(result)
+    except TypeError:
+        print("Ожидаемый тип данных — число!")
+
+
+plus_two(piteg)
+'''
+'''
+#TODO 2
+#Напишите программу, которая позволяет получить доступ к элементу массива, индекс которого выходит за границы,
+# и обработаем соответствующее исключение.
+
+mass = [1, 3, 4]
+
+try:
+    print(mass[22])
+except IndexError:
+    print("Индекс выходит за рамки массива")
+    
+'''
+import requests
+import json
+
+number = int(input("Введите число: "))
+
+url = f"https://jsonplaceholder.typicode.com/todos/{number}"
+
+try:
+    response = requests.get(url)
+    response.raise_for_status()
+
+    todo = response.json()
+
+    filename = f"{todo['id']}.json"
+    with open(filename, mode="w", encoding="utf-8") as file:
+        json.dump(todo, file)
+    print(f"Данные сохранены в файл: {filename}")
+except Exception as error:
+    print(error)
+    print("Ошибка")
