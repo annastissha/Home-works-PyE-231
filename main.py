@@ -1,52 +1,111 @@
+
+# todo Напишите программу которая будет шифровать текст шифром Цезаря.
 '''
-# TODO 1
-# Функция plus_two() выполняет одну простую задачу — выводит результат сложения переданного в нее числа 2 и значения
-# переменной number. В переменную number должно быть передано число. Обработайте ситуацию, если в эту переменную переданы данные
-# какого-то другого типа. В случае ошибки напечатайте в консоли сообщение «Ожидаемый тип данных — число!».
-
-piteg = int(input("Введите число: "))
-
-
-def plus_two(piteg):
-    try:
-        result = 2 + int(piteg)
-        print(result)
-    except TypeError:
-        print("Ожидаемый тип данных — число!")
-
-
-plus_two(piteg)
+alphabet = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
+encrypt = input("Enter a clear message: ")
+key = int(input("Enter a key (number from 1-25): "))
+encrypt = encrypt.lower()
+encrypted = ""
+for letter in encrypt:
+    position = alphabet.find(letter)
+    newPosition = position + key
+    if letter in alphabet: #проверка символа
+        encrypted = encrypted + alphabet[newPosition] #после смещения новая буква добавляется у к шифр. сообщению
+    else:
+        encrypted = encrypted + letter
+print("Your cipher is: ", encrypted)
 '''
+# todo 2 вариант решения
 '''
-#TODO 2
-#Напишите программу, которая позволяет получить доступ к элементу массива, индекс которого выходит за границы,
-# и обработаем соответствующее исключение.
+encrypt = input("Enter a clear message: ")
+shift = int(input("Enter a shift key : "))
 
-mass = [1, 3, 4]
+encrypted_text = ""
 
-try:
-    print(mass[22])
-except IndexError:
-    print("Индекс выходит за рамки массива")
-    
+for char in encrypt:
+    if char == "":
+        encrypted_text += ""
+    else:
+        ascii_code = ord(char)
+        if shift > 0:
+            new_ascii_code = ascii_code + shift
+            if new_ascii_code > ord("z"):
+                new_ascii_code -= 26
+        else:
+            new_ascii_code = ascii_code + shift
+            if new_ascii_code < ord("a"):
+                new_ascii_code += 26
+        encrypted_text += chr(new_ascii_code)
+
+print("Your cipher is: ", encrypted_text)
 '''
-import requests
+
+#2 Пользователь вводит с клавиатуры название фрукта. Необходимо вывести на экран количество раз, сколько фрукт
+# встречается в кортеже в качестве элемента.
+'''
+fruits = ('apple', 'orange', 'banana', 'grape', 'grape', 'apple', 'plum')
+fruit = input("Введите название фрукта: ")
+count = fruits.count(fruit)
+print("Фрукт", fruit, "встречается", count, "раз в кортеже" )
+'''
+#Добавьте к заданию 1 подсчет количества раз, когда название фрукта является частью элемента.
+'''
+fruits = ('orange', 'banana', 'grape', 'grape', 'apple', 'plum', 'banana', 'apple', 'bananamango', 'mango', 'strawberry-banana')
+fruit = input("Введите название фрукта: ")
+count_exact = fruits.count(fruit)
+count_partial = sum(1 for f in fruits if fruit in f)
+
+print("Фрукт", fruit, "встречается", count_exact, "раз в кортеже" )
+'''
+
+#Есть кортеж с названиями производителей автомобилей (название производителя может встречаться от 0 до N раз).
+# Пользователь вводит с клавиатуры название производителя и слово для замены. Необходимо заменить в кортеже все элементы
+#с этим названием на слово для замены. Совпадение по названию должно быть полным.
+'''
+car_brands = ('Toyota', 'Honda', 'Ford', 'Toyota', 'Chevrolet')
+old_brand = input('Введите название производителя: ')
+new_brand = input('Введите слово для замены: ')
+
+new_car_brands = tuple(new_brand if brand == old_brand else brand for brand in car_brands)
+
+print(new_car_brands)
+'''
+# todo Множества
+#1 Напишите функцию superset(), которая принимает 2 множества. Результат работы
+#функции: вывод в консоль одного из сообщений в зависимости от ситуации:
+'''
+set1 = set(input("Введите первое множество через запятую: ").split(","))
+set2 = set(input("Введите второе множество через запятую: ").split(","))
+
+def superset(set1, set2):
+    if set1.issuperset(set2):
+        if set1 == set2:
+            print(f"Множества  {set1} равны")
+        else:
+            print(f"Объект {set1} является супермножеством, но содержит дополнительные элементы")
+    else:
+        print("Супермножество не обнаружено")
+superset(set1, set2)
+'''
+# todo
 import json
+from datetime import datetime
 
-number = int(input("Введите число: "))
+day1 = input("Введите первый день недели: ")
+day2 = input("Введите второй день недели: ")
 
-url = f"https://jsonplaceholder.typicode.com/todos/{number}"
 
-try:
-    response = requests.get(url)
-    response.raise_for_status()
+date1 = datetime.strptime(day1, '%A')
+date2 = datetime.strptime(day2, '%A')
 
-    todo = response.json()
+if date1 > date2:
+    hours_left = (date2 - date1).days * 24
+else:
+    hours_left = (date2 - date1).days * 24
 
-    filename = f"{todo['id']}.json"
-    with open(filename, mode="w", encoding="utf-8") as file:
-        json.dump(todo, file)
-    print(f"Данные сохранены в файл: {filename}")
-except Exception as error:
-    print(error)
-    print("Ошибка")
+
+print(f"До наступления большей даты осталось {int(hours_left)} часов")
+
+data = {"date1": date1.strftime("%Y-%m-%d"), "date2": date2.strftime("%Y-%m-%d")}
+with open("dates.json", "w") as f:
+    json.dump(data, f)
