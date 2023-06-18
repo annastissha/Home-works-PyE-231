@@ -1,111 +1,65 @@
-
-# todo Напишите программу которая будет шифровать текст шифром Цезаря.
+#todo  Списки
+#Напишите программу, которая считывает с консоли числа (по одному в строке) до тех пор, пока сумма введённых чисел не будет равна 0 и сразу после этого выводит сумму квадратов всех считанных чисел.
+#Гарантируется, что в какой-то момент сумма введённых чисел окажется равной 0, после этого считывание продолжать не нужно.
+#В примере мы считываем числа 1, -3, 5, -6, -10, 13; в этот момент замечаем, что сумма этих чисел равна нулю и выводим сумму
+#их квадратов, не обращая внимания на то, что остались ещё не прочитанные значения.
 '''
-alphabet = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz"
-encrypt = input("Enter a clear message: ")
-key = int(input("Enter a key (number from 1-25): "))
-encrypt = encrypt.lower()
-encrypted = ""
-for letter in encrypt:
-    position = alphabet.find(letter)
-    newPosition = position + key
-    if letter in alphabet: #проверка символа
-        encrypted = encrypted + alphabet[newPosition] #после смещения новая буква добавляется у к шифр. сообщению
+sum = 0
+squares_sum = 0
+
+while True:
+    num = int(input())
+    sum += num
+    squares_sum += num ** 2
+    if sum == 0:
+        break
+
+print(squares_sum)
+'''
+
+#todo Задание No1.
+#Петя решил подвести итоги четверти и посчитать, сколько он получил пятерок, четверок, троек и двоек. Пользователь вводит
+# список цифр через пробел. В первой строке вам необходимо вывести количество пятерок, четверок, троек и двоек через пробел.
+# Во второй – средний балл Васи.
+'''
+grades = input().split()
+fives = grades.count('5')
+fours = grades.count('4')
+threes = grades.count('3')
+twos = grades.count('2')
+
+average_grade = sum(map(int, grades)) / len(grades)
+
+print(fives, fours, threes, twos)
+print(average_grade)
+'''
+#todo Задание No2.
+#Петя очень умный школьник, и поэтому уверен, что оценки в жизни не главное! И, чтобы доказать это всем, он придумал план: заменить
+# свои плохие оценки на хорошие. А чтобы было не очень заметно, Петя решил заменить двойки на трояки. Да вот одна проблема:
+# оценок много, а времени мало. Помогите мальчику автоматизировать процесс.
+'''
+numbers = input().split()
+
+new_numbers = []
+for num in numbers:
+    if num == '2':
+        new_numbers.append('3')
     else:
-        encrypted = encrypted + letter
-print("Your cipher is: ", encrypted)
+        new_numbers.append(num)
+
+print(' '.join(new_numbers))
 '''
-# todo 2 вариант решения
-'''
-encrypt = input("Enter a clear message: ")
-shift = int(input("Enter a shift key : "))
+#todo Напишите консольную программу для регистрации пользователя (почта + пароль), проверку сделайте через регулярное выражение.
 
-encrypted_text = ""
+import re
 
-for char in encrypt:
-    if char == "":
-        encrypted_text += ""
-    else:
-        ascii_code = ord(char)
-        if shift > 0:
-            new_ascii_code = ascii_code + shift
-            if new_ascii_code > ord("z"):
-                new_ascii_code -= 26
-        else:
-            new_ascii_code = ascii_code + shift
-            if new_ascii_code < ord("a"):
-                new_ascii_code += 26
-        encrypted_text += chr(new_ascii_code)
+email = input("Введите email: ")
+password = input("Введите пароль: ")
 
-print("Your cipher is: ", encrypted_text)
-'''
+email_regex = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+password_regex = r'^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{8,}$'
 
-#2 Пользователь вводит с клавиатуры название фрукта. Необходимо вывести на экран количество раз, сколько фрукт
-# встречается в кортеже в качестве элемента.
-'''
-fruits = ('apple', 'orange', 'banana', 'grape', 'grape', 'apple', 'plum')
-fruit = input("Введите название фрукта: ")
-count = fruits.count(fruit)
-print("Фрукт", fruit, "встречается", count, "раз в кортеже" )
-'''
-#Добавьте к заданию 1 подсчет количества раз, когда название фрукта является частью элемента.
-'''
-fruits = ('orange', 'banana', 'grape', 'grape', 'apple', 'plum', 'banana', 'apple', 'bananamango', 'mango', 'strawberry-banana')
-fruit = input("Введите название фрукта: ")
-count_exact = fruits.count(fruit)
-count_partial = sum(1 for f in fruits if fruit in f)
-
-print("Фрукт", fruit, "встречается", count_exact, "раз в кортеже" )
-'''
-
-#Есть кортеж с названиями производителей автомобилей (название производителя может встречаться от 0 до N раз).
-# Пользователь вводит с клавиатуры название производителя и слово для замены. Необходимо заменить в кортеже все элементы
-#с этим названием на слово для замены. Совпадение по названию должно быть полным.
-'''
-car_brands = ('Toyota', 'Honda', 'Ford', 'Toyota', 'Chevrolet')
-old_brand = input('Введите название производителя: ')
-new_brand = input('Введите слово для замены: ')
-
-new_car_brands = tuple(new_brand if brand == old_brand else brand for brand in car_brands)
-
-print(new_car_brands)
-'''
-# todo Множества
-#1 Напишите функцию superset(), которая принимает 2 множества. Результат работы
-#функции: вывод в консоль одного из сообщений в зависимости от ситуации:
-'''
-set1 = set(input("Введите первое множество через запятую: ").split(","))
-set2 = set(input("Введите второе множество через запятую: ").split(","))
-
-def superset(set1, set2):
-    if set1.issuperset(set2):
-        if set1 == set2:
-            print(f"Множества  {set1} равны")
-        else:
-            print(f"Объект {set1} является супермножеством, но содержит дополнительные элементы")
-    else:
-        print("Супермножество не обнаружено")
-superset(set1, set2)
-'''
-# todo
-import json
-from datetime import datetime
-
-day1 = input("Введите первый день недели: ")
-day2 = input("Введите второй день недели: ")
-
-
-date1 = datetime.strptime(day1, '%A')
-date2 = datetime.strptime(day2, '%A')
-
-if date1 > date2:
-    hours_left = (date2 - date1).days * 24
+if re.match(email_regex, email) and re.match(password_regex, password):
+    print("Регистрация прошла успешно!")
 else:
-    hours_left = (date2 - date1).days * 24
-
-
-print(f"До наступления большей даты осталось {int(hours_left)} часов")
-
-data = {"date1": date1.strftime("%Y-%m-%d"), "date2": date2.strftime("%Y-%m-%d")}
-with open("dates.json", "w") as f:
-    json.dump(data, f)
+    print("Ошибка в регистрации. Проверьте правильность введенных данных.")
